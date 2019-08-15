@@ -1,9 +1,24 @@
 # This project automatically plays all modes of the web version of Piano Tiles (http://tanksw.com/piano-tiles/)
-## Step 1: Install required libraries (Type in terminals)
+Notes: This program only supports windows for now.
+## Step 1: Install Required Libraries (Type in python terminal)
+```python
   OpenCV: pip install opencv-python
+  
   pynput: pip install pynput
+  
   PIL: pip install PIL
+  
   numpy: pip install numpy
- ## Step 2: Change parameters and calibrate coordinates
-  In order to Screem-capture a rectangle space of the screen, we need 2 points. The first point needs to be on the upper left corner of the shape, and the second point needs to be on the bottom right. **Change the first two elements of the "game_cord" variable to the x and y coordinates of the first point, and for 3rd and 4th elements change them to the x and y of the second point.**
+ ```
+## Step 2: Open the game and choose any modes
+## Step 3: Initate main.py
+  The program will take a few seconds to locate the game board on your screen.
+  Make sure a few things:
+  
+  
+  **1. Have only one game running.**
+  
+  **2. Run the game in standard resolution. (Do not zoom in or out)**
+  
+## Step 4: Enjoy the game :)
   
