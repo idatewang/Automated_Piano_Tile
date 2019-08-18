@@ -20,5 +20,7 @@ Notes: This program only supports windows for now.
   
   **2. Run the game in standard resolution. (Do not zoom in or out)**
   
-## Step 4: Enjoy the game :)
+  **3. Avoid moving the window the game is on.**
+  
+## Step 4: Enjoy the game (played by the bot) :)
   
