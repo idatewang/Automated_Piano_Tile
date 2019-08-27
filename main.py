@@ -1,3 +1,4 @@
+# Arthur: Duo Wang
 from pynput.mouse import *
 import numpy as np
 from PIL import ImageGrab
